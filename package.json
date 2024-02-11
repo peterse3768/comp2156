@@ -1,0 +1,16 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test created yet.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterse3768/comp2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
